@@ -78,7 +78,7 @@ export default makeStyles((theme) => ({
   },
   h1: {
     textAlign: 'center',
-    color: "rgb(111,0,255)"
+    color: "#284b63"
     
   }
 }));
